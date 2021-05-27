@@ -5,9 +5,7 @@
 Use Quadrilateral as the super class of the hierarchy. The instance variables of Quadrilateral should be
 the x-y coordinate pairs for the four endpoints of the Quadrilateral. Write a program that instantiates
 objects of your classes and outputs each object's area (except Quadrilateral).
- * 
- * 
- *
+ 
  */
 package com.foxmula.assignment1;
 
