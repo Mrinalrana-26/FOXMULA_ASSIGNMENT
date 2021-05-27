@@ -1,3 +1,13 @@
+/*
+ * @author Mrinal Singh
+ *
+ *
+ *Create a class Stack that declares a stack and the methods to perform push ( ), pop ( ) and checkEmpty (
+) operations on the stack. Create two stacks and write a menu-driven program to perform operations on
+the two stacks. Whenever the number of elements in the two stacks becomes equal, a message should
+automatically be generated displaying the number of elements in each stack.
+
+ */
 package com.foxmula.assignment1;
 
 import java.util.Scanner;
