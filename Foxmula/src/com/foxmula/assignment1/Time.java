@@ -1,3 +1,13 @@
+/*
+ * @author Mrinal Singh
+ * 
+ * Create a class called Time, which has three private instance variables – hour, min and sec. It contains a
+method called add ( ) which takes one Time object as parameter and print the added value of the calling
+Time object and passes Time object. In the main method, declare two Time objects and assign values
+using constructor and call the add ( ) method.
+
+ */
+
 package com.foxmula.assignment1;
 
 
